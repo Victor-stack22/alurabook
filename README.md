@@ -1,12 +1,14 @@
 # alurabook
 
-> Projeto feito durante curso de responsividade da Alura
+> Projeto feito durante curso de responsividade da Alura!
 
 ## Projeto feito com:
 
 * HTML
 
 * CSS
+
+* utilizando estudos de responsividade para diversos dispositivos!
 
 Ainda tenho muito a aprender!
 
