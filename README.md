@@ -8,6 +8,8 @@
 
 * CSS
 
+* JS (API Swiper) 
+
 * utilizando estudos de responsividade para diversos dispositivos!
 
 Ainda tenho muito a aprender!
